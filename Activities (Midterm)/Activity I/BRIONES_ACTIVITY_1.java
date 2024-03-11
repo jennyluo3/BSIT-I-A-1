@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class BRIONES_ACTIVITY_1{
-    public static void main(Sring []args){
+    public static void main(String []args){
      Scanner sc = new Scanner(System.in);
 
      String[] names = new String[5];
