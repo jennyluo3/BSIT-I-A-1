@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PSCULBA ACTIVITY_III{
+public class PACULBA ACTIVITY_III{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int [][] score = new int [5][5];
