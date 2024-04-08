@@ -1,10 +1,19 @@
-import java.util.Scanner;
-public class LIBRADO_ACTIVITY_I{
-    Scanner sc = new Scanner(System.in);
-public static void main(String [] args){
-    int length = 20, width = 40;
-    System.out.println("Average: " + length + width / 2);
-    System.out.println("Area: " + length * width);
 
-  }
+ import java.util.Scanner;
+ public class LIBRADO_ACTIVITY_I {
+     
+         static int length(){
+             Scanner input = new Scanner(System.in);
+             System.out.print("Enter the Length of the Triangle: ");
+             return input.nextInt();
+         }
+         static int width(){
+             Scanner input = new Scanner(System.in);
+             System.out.print("Enter the Width of the Triangle: ");
+             return input.nextInt();
+         }
+        public static void main(String[] args) {
+         long area = width()*length();
+         System.out.println("AREA = " + area);
+     }
  }
