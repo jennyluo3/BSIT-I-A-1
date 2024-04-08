@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LAPIS_ACTIVITY_I {
+public class LAPIS_ACTIVITY_I.java {
   static int length(){ 
     Scanner sc= new Scanner (System.in);
     System.out.println(" Enter the length of the Rectangle:");
