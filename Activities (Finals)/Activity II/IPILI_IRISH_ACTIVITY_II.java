@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class IPILI_IRISH_ACTIVITY_II{
-     static void feetToInches(double feet){
+     static void feetToInch(double feet){
         double res = feet*12;
         System.out.println(res);
      }
