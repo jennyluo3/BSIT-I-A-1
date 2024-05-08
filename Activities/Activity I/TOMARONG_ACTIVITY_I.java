@@ -5,9 +5,9 @@ public class TOMARONG_ACTIVITY_I {
         double var1, var2, var3;
         
         
-        var1 = 10.0;
-        var2 = 5.0;
-        var3 = 2.0;
+        var1 = 36.5;
+        var2 = 10.5;
+        var3 = 4.5;
         
         
         double sum = var1 + var2 + var3;
