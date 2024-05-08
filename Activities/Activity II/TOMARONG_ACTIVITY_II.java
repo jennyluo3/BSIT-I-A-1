@@ -2,13 +2,13 @@ import java.util.Scanner;
 
 public class TOMARONG_ACTIVITY_II{
     public static void main(String []args){
-        Scanner input=newScanner(System.in);
+        Scanner sc = new Scanner(System.in);
         
         System.out.print("Enter First number: ");
-        int fnum = input.nextInt();
+        int fnum = sc.nextInt();
 
         System.out.print("Enter Second number: ");
-        int snum = input.nextInt();
+        int snum = sc.nextInt();
 
         System.out.println("The Sum is "+(fnum+snum));
         System.out.println("The Difference is "+(fnum-snum));
