@@ -4,10 +4,10 @@ public class NAIRY_ACTIVITY_II {
         Scanner input = new Scanner (System.in);
 
 
-        System.out.print("Input First Number= ");
+        System.out.print("Input First Number: ");
         int asum = input.nextInt();
 
-        System.out.print("Input Second Number= ");
+        System.out.print("Input the Second Number: ");
         int bsum = input.nextInt();
 
         int Sum = asum + bsum;
@@ -20,4 +20,4 @@ public class NAIRY_ACTIVITY_II {
 
 
     }
-    }
+}
