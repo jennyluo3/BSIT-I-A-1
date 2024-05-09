@@ -19,5 +19,6 @@ public class CAMASO_ACTIVITY_I{
     public static int getWidth(Scanner sc){
         System.out.println("Enter the width of the Rectangle: ");
         return sc.nextInt();
+
     }
 }
