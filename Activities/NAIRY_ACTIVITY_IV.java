@@ -1,6 +1,6 @@
 import  java.util.Scanner;
 
-public class Program  ACTIVITY_NAIRY_IV.java {
+public class NAIRY_ACTIVITY_IV{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String color = scanner.nextLine();
