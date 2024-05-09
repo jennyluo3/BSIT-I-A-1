@@ -2,9 +2,9 @@ public class CAMASO_ACTIVITY_I{
 
     public static void main(String[]args){
 
-        int a = 10;
-        int b = 5;
-        int c = 4;
+        int a = 12;
+        int b = 16;
+        int c = 23;
 
         int sum = a + b + c;
         int diff = a - b - c;
@@ -16,11 +16,6 @@ public class CAMASO_ACTIVITY_I{
                 System.out.println("Product: " + prod);
                 System.out.println("Quotient: " + quot);
 
-
-
-
-
     }
 
 }
-
