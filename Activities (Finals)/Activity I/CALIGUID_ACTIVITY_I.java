@@ -8,12 +8,12 @@ public static void main(String[] args) {
 }
 public static int getLength(){
     Scanner sc = new Scanner(System.in);
-    System.out.println("Enter the length of the Rectangle: ");
+    System.out.print("Enter the length of the Rectangle: ");
     return sc.nextInt();
 }
 public static int getWidth(){
     Scanner sc = new Scanner(System.in);
-    System.out.println("Enter the width of the Rectangle: ");
+    System.out.print("Enter the width of the Rectangle: ");
     return sc.nextInt();
 }
 }
