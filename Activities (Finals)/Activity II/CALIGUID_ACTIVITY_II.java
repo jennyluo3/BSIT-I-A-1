@@ -7,7 +7,7 @@ public class CALIGUID_ACTIVITY_II{
 		}
 	public static void main(String [] args){
 	    Scanner input = new Scanner(System.in);
-		System.out.println("Enter feet: ");
+		System.out.print("Enter feet: ");
 		int num = input.nextInt();
 
 		converts(num);
