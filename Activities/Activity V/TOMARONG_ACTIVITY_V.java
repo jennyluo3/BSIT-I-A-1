@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TOMARONG_ACTIVITY_5{
+public class TOMARONG_ACTIVITY_V{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
     
