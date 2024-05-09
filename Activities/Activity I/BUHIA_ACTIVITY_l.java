@@ -11,3 +11,5 @@ public class BUHIA_ACTIVITY_I{
         System.out.println("Diff: "+diff);
         System.out.println("Product: "+prod);
         System.out.println("Quotient: "+quot);
+    }
+}
