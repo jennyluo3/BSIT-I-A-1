@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class BRIONES_ACTIVITYII{
+ public class BRIONES_ACTIVITY_II{
     public static void main(String []args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter First number: ");
