@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Hiyan_Activity_1 {
+public class HIYAN_ACTIVITY_I {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
 
