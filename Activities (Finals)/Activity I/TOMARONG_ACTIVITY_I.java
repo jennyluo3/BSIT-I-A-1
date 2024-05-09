@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class TOMARONG_ACTIVITY_1{
+public class TOMARONG_ACTIVITY_I{
     
         static int getLength(){
         Scanner sc= new Scanner(System.in);
