@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LASTNAME_ACTIVITY_IV{
+public class CAMASO_ACTIVITY_IV{
 
 	public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);
